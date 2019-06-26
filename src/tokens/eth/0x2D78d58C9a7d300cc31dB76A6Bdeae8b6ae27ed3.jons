@@ -1,0 +1,31 @@
+{
+  "symbol": "MXC",
+  "name": "Max Coin",
+  "type": "ERC20",
+  "address": "0x2D78d58C9a7d300cc31dB76A6Bdeae8b6ae27ed3",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "syh0104@gmail.com", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
